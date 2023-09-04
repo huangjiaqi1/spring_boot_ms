@@ -24,4 +24,8 @@ class WmsApplicationTests {
         });
     }
 
+    public void test(){
+        System.out.println("finish");
+    }
+
 }
